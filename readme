@@ -1,0 +1,21 @@
+Instructions about this code, there total five function:
+
+
+functions for insert range:
+add()
+addtoRange()
+merge()
+
+function for remve range:
+remove
+
+function for print:
+print()
+
+
+How to run this code:
+for mac:
+brew install node
+
+cd Ranglist location:
+node RangList.js
